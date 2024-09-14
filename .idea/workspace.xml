@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="025fda74-67c4-48c1-b19c-b654ce0b27a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoProject2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProject2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoProject2/src/main/java/com/gentech/csvdemo/readwrite/WriteCSVContentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProject2/src/main/java/com/gentech/csvdemo/readwrite/WriteCSVContentDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoProject2/src/test/java/com/gentech/csvdemo/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProject2/src/test/java/com/gentech/csvdemo/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="025fda74-67c4-48c1-b19c-b654ce0b27a6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
