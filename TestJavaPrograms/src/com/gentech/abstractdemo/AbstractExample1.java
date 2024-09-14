@@ -1,4 +1,4 @@
-package com.gentech.abstractdemo;
+package TestJavaPrograms.src.com.gentech.abstractdemo;
 abstract class College
 {
 	abstract void showCollegeName(String name);

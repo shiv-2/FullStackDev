@@ -1,4 +1,4 @@
-package com.gentech.constructor;
+package TestJavaPrograms.src.com.gentech.constructor;
 class Employee
 {
 	Employee(String ename)

@@ -1,4 +1,4 @@
-package com.gentech.exception;
+package TestJavaPrograms.src.com.gentech.exception;
 class BasicMaths
 {
 	static void addition(int x,int y)
