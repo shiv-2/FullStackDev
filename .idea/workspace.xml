@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="025fda74-67c4-48c1-b19c-b654ce0b27a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FullStackDev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FullStackDev.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJavaPrograms/src/com/gentech/abstractdemo/AbstractExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaPrograms/src/com/gentech/abstractdemo/AbstractExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJavaPrograms/src/com/gentech/constructor/ConstructorChainingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaPrograms/src/com/gentech/constructor/ConstructorChainingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJavaPrograms/src/com/gentech/exception/BeforeHandlingExceptionInMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaPrograms/src/com/gentech/exception/BeforeHandlingExceptionInMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProject2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProject2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProject2/src/main/java/com/gentech/csvdemo/readwrite/WriteCSVContentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProject2/src/main/java/com/gentech/csvdemo/readwrite/WriteCSVContentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoProject2/src/test/java/com/gentech/csvdemo/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProject2/src/test/java/com/gentech/csvdemo/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +34,8 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Vijay Kumar A/GitDevRepository/current_workspace/FullStackDev",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
