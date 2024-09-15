@@ -1,4 +1,4 @@
-package TestJavaPrograms.src.com.gentech.io;
+package com.gentech.io;
 
 import java.io.File;
 import java.io.IOException;
