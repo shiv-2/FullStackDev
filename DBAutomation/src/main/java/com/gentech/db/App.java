@@ -1,4 +1,4 @@
-package com.gentech.db;
+package DBAutomation.src.main.java.com.gentech.db;
 
 /**
  * Hello world!

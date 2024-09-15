@@ -1,4 +1,4 @@
-package com.gentech.db;
+package DBAutomation.src.test.java.com.gentech.db;
 
 import static org.junit.Assert.assertTrue;
 
