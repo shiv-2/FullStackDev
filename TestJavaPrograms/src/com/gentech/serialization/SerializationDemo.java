@@ -8,7 +8,7 @@ import java.io.ObjectOutputStream;
 public class SerializationDemo {
 
 	public static void main(String[] args) {
-	//	writeObjectToFile();
+//		writeObjectToFile();
 		readObjectFromFile();
 	}
 	
@@ -19,7 +19,7 @@ public class SerializationDemo {
 		Employee obj=null;
 		try
 		{
-			fout=new FileOutputStream("E:\\Example\\Employee.ser");
+			fout=new FileOutputStream("E:\\Vijay Kumar A\\Employee.txt");
 			out=new ObjectOutputStream(fout);
 			
 			obj=new Employee("Santosh","Senior Research Scientiest");
@@ -49,7 +49,7 @@ public class SerializationDemo {
 		Employee obj=null;
 		try
 		{
-			fin=new FileInputStream("E:\\Example\\Employee.ser");
+			fin=new FileInputStream("E:\\Vijay Kumar A\\Employee.txt");
 			in=new ObjectInputStream(fin);
 			
 			obj=(Employee) in.readObject();

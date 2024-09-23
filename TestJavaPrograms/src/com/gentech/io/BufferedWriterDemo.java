@@ -15,7 +15,7 @@ public class BufferedWriterDemo {
 		BufferedWriter bw=null;
 		try
 		{
-			fw=new FileWriter("D:\\Demo\\Test3.txt",true);
+			fw=new FileWriter("E:\\Vijay Kumar A\\Demo\\Test3.txt",true);
 			bw=new BufferedWriter(fw);
 			
 			bw.write("The children are playing in the play ground.");

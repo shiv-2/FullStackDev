@@ -6,10 +6,10 @@ import java.io.IOException;
 public class FileOperationsDemo {
 
 	public static void main(String[] args) {
-	    createFile();
+//	    createFile();
 	//	renameFile();
 	//	deleteFile();
-//		fileCollections();
+	fileCollections();
 	}
 	
 	private static void createFile()
@@ -45,7 +45,12 @@ public class FileOperationsDemo {
 		File f[]=f1.listFiles();
 		for(int i=0;i<f.length;i++)
 		{
-			if(f[i].isFile()==true)
+			if(f[i].isDirectory()){
+				File folder=f[i];
+				File childFile[]=folder.listFiles();
+				System.out.println(childFile[0].getAbsolutePath());
+			}
+			if(f[i].isFile())
 			{
 				String path=f[i].getAbsolutePath();
 				System.out.println(path);

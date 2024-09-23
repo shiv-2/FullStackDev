@@ -14,14 +14,11 @@ public class FileWriterDemo {
 		FileWriter fw=null;
 		try
 		{
-			fw=new FileWriter("D:\\Demo\\Test2.txt",true);
+			fw=new FileWriter("E:\\Vijay Kumar A\\Demo\\pom.txt",true);
 			
 			String str="There are Mangoes in the basket, and those ";
 			str+="mangoes are riped.";
-			
-			char ch[]=str.toCharArray();
-			
-			fw.write(ch);
+			fw.write(str);
 		}catch (Exception e) 
 		{
 			e.printStackTrace();

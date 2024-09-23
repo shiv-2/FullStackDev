@@ -5,7 +5,6 @@ public class FileInputStreamDemo {
 
 	public static void main(String[] args) {
 		readContent();
-		
 	}
 	
 	private static void readContent()
@@ -14,7 +13,7 @@ public class FileInputStreamDemo {
 		int n=0;
 		try
 		{
-			fin=new FileInputStream("D:\\Demo\\Sample.txt");
+			fin=new FileInputStream("E:\\Vijay Kumar A\\Demo\\pom.txt");
 			while(true)
 			{
 				n=fin.read();
@@ -22,7 +21,7 @@ public class FileInputStreamDemo {
 				{
 					break;
 				}
-				char ch=(char) n;
+				char ch=(char)n;
 				System.out.print(ch);
 			}
 		}catch(Exception e)

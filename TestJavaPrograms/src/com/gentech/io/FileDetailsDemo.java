@@ -6,7 +6,7 @@ public class FileDetailsDemo {
 
 	public static void main(String[] args) {
 
-		File f1=new File("D:\\Demo\\FirstFile.txt");
+		File f1=new File("E:\\Vijay Kumar A\\Demo\\pom.txt");
 		//Display Name of the File
 		String name=f1.getName();
 		System.out.println("File Name :"+name);

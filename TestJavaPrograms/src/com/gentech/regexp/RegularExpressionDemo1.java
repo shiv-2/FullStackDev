@@ -6,13 +6,13 @@ import java.util.regex.Pattern;
 public class RegularExpressionDemo1 {
 
 	public static void main(String[] args) {
-	//	matchesDemo();
-	//	findDemo();
-	//	countOfMatch();
-	//	displayMatch();
-	//	displayPositionOfMatch();
-	//	replaceDemo();
-		splitDemo();
+//		matchesDemo();
+//	findDemo();
+//		countOfMatch();
+//		displayMatch();
+//		displayPositionOfMatch();
+		replaceDemo();
+//		splitDemo();
 	}
 	
 	private static void matchesDemo()

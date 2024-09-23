@@ -1,8 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="RunManager">
-    <configuration name="FileOperationsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gentech.io.FileOperationsDemo" />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a26cba-fe39-438f-84bc-e3c8fce9ea20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gentech/io/BufferedInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gentech/io/BufferedOutputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/BufferedReaderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/BufferedReaderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/BufferedWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/BufferedWriterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/FileDetailsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/FileDetailsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/FileInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/FileInputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/FileOperationsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/FileOperationsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/FileOutputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/FileOutputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/FileReaderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/FileReaderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/FileWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/FileWriterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/io/FolderOperationsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/io/FolderOperationsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/regexp/RegularExpressionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/regexp/RegularExpressionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/regexp/RegularExpressionDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/regexp/RegularExpressionDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gentech/serialization/SerializationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gentech/serialization/SerializationDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2m5vSUGPmuG4ydGGIgFlKqG3TF0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BufferedInputStreamDemo.executor": "Run",
+    "Application.BufferedOutputStreamDemo.executor": "Debug",
+    "Application.BufferedReaderDemo.executor": "Run",
+    "Application.BufferedWriterDemo.executor": "Run",
+    "Application.FileDetailsDemo.executor": "Run",
+    "Application.FileInputStreamDemo.executor": "Run",
+    "Application.FileOperationsDemo.executor": "Run",
+    "Application.FileOutputStreamDemo.executor": "Run",
+    "Application.FileReaderDemo.executor": "Run",
+    "Application.FileWriterDemo.executor": "Run",
+    "Application.FolderOperationsDemo.executor": "Run",
+    "Application.InterfaceDemo1.executor": "Run",
+    "Application.RegularExpressionDemo1.executor": "Run",
+    "Application.RegularExpressionDemo2.executor": "Run",
+    "Application.SerializationDemo.executor": "Run",
+    "Application.SingletonDesignPatternDemo.executor": "Debug",
+    "Application.ThreadDemo1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "E:/Vijay Kumar A/GitDevRepository/current_workspace/FullStackDev/TestJavaPrograms/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ThreadDemo1">
+    <configuration name="BufferedInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gentech.io.BufferedInputStreamDemo" />
       <module name="TestJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -14,10 +83,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BufferedOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gentech.io.BufferedOutputStreamDemo" />
+      <module name="TestJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gentech.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gentech.interfacedemo.InterfaceDemo1" />
+      <module name="TestJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gentech.interfacedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegularExpressionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gentech.regexp.RegularExpressionDemo2" />
+      <module name="TestJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gentech.regexp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gentech.interfacedemo.ThreadDemo1" />
+      <module name="TestJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gentech.interfacedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileOperationsDemo" />
+        <item itemvalue="Application.ThreadDemo1" />
+        <item itemvalue="Application.InterfaceDemo1" />
+        <item itemvalue="Application.BufferedOutputStreamDemo" />
+        <item itemvalue="Application.BufferedInputStreamDemo" />
+        <item itemvalue="Application.RegularExpressionDemo2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a26cba-fe39-438f-84bc-e3c8fce9ea20" name="Changes" comment="" />
+      <created>1726379253072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726379253072</updated>
+    </task>
+    <servers />
   </component>
 </project>

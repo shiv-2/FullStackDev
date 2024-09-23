@@ -4,8 +4,8 @@ import java.io.File;
 
 public class FolderOperationsDemo {
 	public static void main(String[] args) {
-	//	createFolder();
-	//	createNestedFolder();
+    //createFolder();
+		createNestedFolder();
 	//	renameFolder();
 	//	deleteFolder();
 	//	folderCollections();
@@ -13,15 +13,15 @@ public class FolderOperationsDemo {
 	
 	private static void createFolder()
 	{
-		File f1=new File("D:\\Demo\\Hello");
+		File f1=new File("E:\\Vijay Kumar A\\Demo\\Hello");
 		boolean v1=f1.mkdir();
 		System.out.println("Whether Folder has created ?:"+v1);
 	}
 
 	private static void createNestedFolder()
 	{
-		File f1=new File("D:\\Demo\\Dev1\\Dev2\\Dev3\\Dev4");
-		boolean v1=f1.mkdirs();
+		File f1=new File("E:\\Vijay Kumar A\\Demo\\Dev1\\Dev2\\Dev3\\Dev4");
+		boolean v1=f1.mkdir();
 		System.out.println("Whether Nested Folders have created ?:"+v1);
 	}
 	

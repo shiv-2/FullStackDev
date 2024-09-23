@@ -13,7 +13,7 @@ public class FileOutputStreamDemo {
 		FileOutputStream fout=null;
 		try
 		{
-			fout=new FileOutputStream("D:\\Demo\\Test1.txt",true);
+			fout=new FileOutputStream("E:\\Vijay Kumar A\\Demo\\pom.txt",true);
 			
 			String str="There are Mangoes in the basket, and those ";
 			str+="mangoes are riped.";

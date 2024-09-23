@@ -5,10 +5,10 @@ import java.util.regex.Pattern;
 
 public class RegularExpressionDemo2 {
 	public static void main(String[] args) {
-	//	patternMatching();
-	//	patternMatching2();
-	//	patternMatching3();
-		patternMatchingWords();
+//		patternMatching();
+//		patternMatching2();
+//		patternMatching3();
+      patternMatchingWords();
 	}
 	
 	private static void patternMatching()
